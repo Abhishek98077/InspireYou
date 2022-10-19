@@ -25,6 +25,11 @@ needed before installing program.
 2. register on signup page and login afterwards.
 3. then purchase the course and get the ISO verified certificate. which is valid globally.
 4. validate any certificate on this portal to verify the certificate is valid/issued by company or not.
+# Work Flow
+1. every screenshot of project are given below:
+  https://github.com/Abhishek98077/InspireYou/blob/dev/screenshot.zip
+  Have to unzip the file and see the design images
+
 
 # Version History
 .0.1
