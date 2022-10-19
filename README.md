@@ -30,4 +30,4 @@ needed before installing program.
 .0.1
   1.Initial Release
 # License
-This project is licensed under the [Abhishek] License.
+This project is licensed under the [Abhishek].
